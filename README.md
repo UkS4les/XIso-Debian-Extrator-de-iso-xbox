@@ -143,4 +143,4 @@ Após localizar o volume, toda a árvore de diretórios é reconstruída e os ar
 
 # Autor
 
-Desenvolvido por PrymeTiveHK
+Desenvolvido por UkS4les
